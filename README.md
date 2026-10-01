@@ -1,6 +1,6 @@
 ## Olá, eu sou o Felipe 👋
 
-**Analista de BI** em São Paulo. Passei 7+ anos dentro de operações de Customer Experience, da linha de frente à liderança de treinamento, e hoje construo os dashboards que eu queria ter tido nas reuniões de resultado.
+**Analista de BI** em São Paulo. Passei 7+ anos dentro de operações de Customer Experience, da linha de frente à liderança de treinamento, e hoje estudo e construo os dashboards que eu queria ter tido nas reuniões de resultado.
 
 - Power BI, DAX, Power Query e modelagem dimensional
 - SQL e Excel avançado
